@@ -6,9 +6,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Models/Result"
-
 	"github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus"
+	"github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Models/Result"
 )
 
 // Start listener with connection string and callback function for new results
