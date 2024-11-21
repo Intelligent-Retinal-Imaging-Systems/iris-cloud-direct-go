@@ -1,6 +1,6 @@
 package Request
 
-import "iris-cloud-direct-go/IRISCore/Models/Shared"
+import "github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Models/Shared"
 
 // Patient details for order
 type Patient struct {

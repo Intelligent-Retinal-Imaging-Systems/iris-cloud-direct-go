@@ -1,11 +1,12 @@
 package main
 
 import (
-	"iris-cloud-direct-go/IRISCore/Models/Config"
-	"iris-cloud-direct-go/IRISCore/Models/Request"
-	"iris-cloud-direct-go/IRISCore/Models/Shared"
-	OrderSubmitter "iris-cloud-direct-go/IRISCore/Order"
 	"log"
+
+	"github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Models/Config"
+	"github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Models/Request"
+	"github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Models/Shared"
+	OrderSubmitter "github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Order"
 )
 
 func main() {

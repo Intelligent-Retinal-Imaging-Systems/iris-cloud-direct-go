@@ -3,8 +3,9 @@ package OrderSubmitter
 import (
 	"context"
 	"encoding/json"
-	"iris-cloud-direct-go/IRISCore/Models/Request"
 	"log"
+
+	"github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Models/Request"
 
 	"github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus"
 )

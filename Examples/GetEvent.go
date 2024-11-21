@@ -1,8 +1,8 @@
 package main
 
 import (
-	EventReceiver "iris-cloud-direct-go/IRISCore/Event"
-	"iris-cloud-direct-go/IRISCore/Models/Config"
+	EventReceiver "github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Event"
+	"github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Models/Config"
 
 	"fmt"
 	"log"

@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"iris-cloud-direct-go/IRISCore/Models/Config"
-	"iris-cloud-direct-go/IRISCore/Models/Result"
-	ResultReceiver "iris-cloud-direct-go/IRISCore/Result"
 	"log"
+
+	"github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Models/Config"
+	"github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Models/Result"
+	ResultReceiver "github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Result"
 )
 
 func main() {

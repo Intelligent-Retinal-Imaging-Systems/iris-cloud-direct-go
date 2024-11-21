@@ -1,4 +1,4 @@
-module iris-cloud-direct-go
+module github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go
 
 go 1.23.3
 

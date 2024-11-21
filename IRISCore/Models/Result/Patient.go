@@ -1,6 +1,6 @@
 package Result
 
-import "iris-cloud-direct-go/IRISCore/Models/Shared"
+import "github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Models/Shared"
 
 // Structure containing Patient details
 type Patient struct {

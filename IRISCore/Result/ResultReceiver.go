@@ -4,8 +4,9 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"iris-cloud-direct-go/IRISCore/Models/Result"
 	"log"
+
+	"github.com/Intelligent-Retinal-Imaging-Systems/iris-cloud-direct-go/IRISCore/Models/Result"
 
 	"github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus"
 )
