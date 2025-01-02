@@ -27,6 +27,7 @@ type ServiceBus struct {
 
 type BlobStorage struct {
 	ImageSubmission string
+	ContainerName   string
 }
 
 func LoadConfiguration(filePath string) (*Configuration, error) {

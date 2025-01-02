@@ -5,7 +5,8 @@
     "Events": "Contact IRIS support for connection strings"
   },
   "BlobStorage": {
-    "ImageSubmission": "Contact IRIS support for connection strings"
+    "ImageSubmission": "Contact IRIS support for connection strings",
+    "ContainerName" : "Contact IRIS support for connection strings"
   },
   "ClientGuid": "Contact IRIS support for connection strings",
   "SiteLocalId": "Contact IRIS support for connection strings"
